@@ -1,6 +1,6 @@
-# ToDo App.
+# ToDo App
 
-> Simple ToDo App to manage your TODO lists.
+> Simple ToDo App to manage your TODO lists
 
 ## Screenshots
 
@@ -10,12 +10,6 @@
   <img width="200" src="https://github.com/SpiralDevelopment/mvvm-todoapp/blob/master/screenshots/sc4.jpg">
   <img width="200" src="https://github.com/SpiralDevelopment/mvvm-todoapp/blob/master/screenshots/sc3.jpg">
 </p>
-
-
-## Architecture
-MVVM (Model - ViewModel - View) is the design pattern used for making this app. 
-
-<img src="https://github.com/SpiralDevelopment/mvvm-todoapp/blob/master/screenshots/architecture.png">
 
 ## Features
 
