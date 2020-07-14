@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ntf_options">
+        <item>An Hour before</item>
+        <item>3 Hours Before</item>
+        <item>5 Hours Before</item>
+        <item>Never</item>
+    </string-array>
+
+    <integer-array name="ntf_options_values">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>-1</item>
+    </integer-array>
+</resources>

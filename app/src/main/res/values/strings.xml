@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date_time">Completion Time</string>
+    <string name="create">Create</string>
+    <string name="date">Date</string>
+    <string name="at">\@</string>
+    <string name="time">time</string>
+    <string name="filter_status">Filter by Status</string>
+    <string name="notification">Notify me</string>
+    <string name="filter_date">Filter by Completion Time</string>
+
+    <string name="selected_date_time">%1$s/%2$s/%3$s %4$02d:%5$02d</string>
+</resources>
